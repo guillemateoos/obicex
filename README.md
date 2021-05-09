@@ -1,0 +1,2 @@
+# obicex
+proyecto de aprendizaje:)
